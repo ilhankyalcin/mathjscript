@@ -1,0 +1,6 @@
+# script 1 #
+f(x)=sin(x);
+f(pi)
+# script 2 #
+f(x)=x^2;
+f(6)
